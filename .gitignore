@@ -1,0 +1,28 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local Vector Databases
+chroma_db/
+qdrant_db/
+
+# PyCharm & IDE Settings
+.idea/
+*.swp
+*.swo
+
+# OS Artifacts (macOS & Windows)
+.DS_Store
+Thumbs.db
+
+# Secrets & Environment Variables
+config.bat
+node_modules

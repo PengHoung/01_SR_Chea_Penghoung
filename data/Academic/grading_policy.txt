@@ -1,0 +1,10 @@
+# Academic Grading and Assignment Submission Policy
+
+1. Late Submission Penalties:
+Coursework submitted after the deadline receives an automatic penalty of 10% deduction per calendar day late[cite: 1]. Work submitted more than 3 days past the deadline will receive a grade of zero unless supported by an official medical certificate[cite: 1].
+
+2. Plagiarism and AI Misuse:
+Directly copying code or prose without citation constitutes academic misconduct[cite: 1, 8]. If an AI assistant is used for research, it must be explicitly cited in the bibliography.
+
+3. Grade Appeals:
+A student wishing to dispute a final exam mark must submit a written appeal form to the Academic Registrar within 7 working days following grade publication.

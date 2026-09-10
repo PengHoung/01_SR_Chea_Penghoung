@@ -1,0 +1,11 @@
+# Campus Wi-Fi and Network Access Policy
+
+1. Available Networks:
+- "Campus-Student": Connect using your Student ID and university portal password. Maximum bandwidth is 50 Mbps per device.
+- "Campus-Guest": Open to visitors for up to 4 hours per session. Video streaming is restricted.
+
+2. Device Limit:
+Each student may register a maximum of two active personal devices (e.g., one laptop and one smartphone) on the student network at the same time.
+
+3. Prohibited Usage:
+Peer-to-peer torrenting, running unauthorized local servers, and accessing malicious websites will lead to immediate device MAC-address blacklisting.
